@@ -1,0 +1,1 @@
+information about the skills learned in the course>Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC.
