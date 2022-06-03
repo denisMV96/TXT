@@ -1,1 +1,3 @@
-
+what: incorrect data calculation
+where: on the page 1
+when: after entering a negative value in the Y field
